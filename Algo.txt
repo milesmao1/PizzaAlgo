@@ -1,0 +1,8 @@
+Decide the pizza place
+Choose pizza type including crust and topings
+Call the pizza place or order online
+Pay for the pizza
+Wait for delivery or pick up at the store
+If delivered, meet delivery person at door
+Check to make sure it's exactly what you ordered and has no problems
+Tip delivery person if delivered or thank people at the store if you picked it up.
